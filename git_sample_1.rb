@@ -12,3 +12,10 @@ KAORUです。
 SELECT * FROME USERS;
 
 TEXT
+
+
+users = ["Ash","Misty","Rock","Team Rocket"]
+users.each do |user|
+  puts user
+
+end
